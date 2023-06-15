@@ -11,7 +11,7 @@ hero:
   actions:
   - theme: brand
     text: 开始探索
-    link: /guide/
+    link: /guide/install
   - theme: alt
     text: GitHub
     link: https://github.com/CodeCouthy/codecouthy-ui

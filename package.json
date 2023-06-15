@@ -1,6 +1,6 @@
 {
   "name": "codecouthy-ui",
-  "version": "1.0.0-1",
+  "version": "1.0.2",
   "description": "a personal design framework",
   "main": "index.js",
   "homepage": "https://docs-codecouthy-ui.vercel.app/",
